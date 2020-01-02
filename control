@@ -1,9 +1,10 @@
 Package: com.ckosmic.wiredock
-Name: wiredock
-Depends: mobilesubstrate
+Name: WireDock
+Depends: mobilesubstrate, libcolorpicker
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: ckosmic
-Author: ckosmic
+Description: Turns the dock into a customizable outline
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Author: Christian Kosman <support@tripleaxis.net>
 Section: Tweaks
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wiredock
